@@ -1,0 +1,7 @@
+C:\Users\zeyna\source\repos\ConsoleAppSwitch\ConsoleAppSwitch\bin\Debug\ConsoleAppSwitch.exe.config
+C:\Users\zeyna\source\repos\ConsoleAppSwitch\ConsoleAppSwitch\bin\Debug\ConsoleAppSwitch.exe
+C:\Users\zeyna\source\repos\ConsoleAppSwitch\ConsoleAppSwitch\bin\Debug\ConsoleAppSwitch.pdb
+C:\Users\zeyna\source\repos\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.csprojAssemblyReference.cache
+C:\Users\zeyna\source\repos\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.csproj.CoreCompileInputs.cache
+C:\Users\zeyna\source\repos\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.exe
+C:\Users\zeyna\source\repos\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.pdb
